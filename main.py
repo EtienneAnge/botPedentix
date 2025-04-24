@@ -6,7 +6,6 @@ import time
 from openai import OpenAI
 
 
-apiKey = "sk-fiv5yfnOoEnmDumB0ZxbqnTNlLgkCMBKB-LDCJ4WgCT3BlbkFJifivloN_ZHaQ8LGa9xAD3kBpTJC9tTC9T3gKf7DXcA"
 
 client = OpenAI(api_key=apiKey)
 
